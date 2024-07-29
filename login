@@ -19,8 +19,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    /* background-image: url(login5.jpeg); */
-    /* background-image: url(blue.jpg); */
+    background-image: url(login5.jpeg); 
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
